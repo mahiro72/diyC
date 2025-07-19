@@ -9,5 +9,5 @@ services:
     tty: true
     stdin_open: true
     cap_add:
-      - SYS_ADMIN
-      - NET_ADMIN
+    - SYS_ADMIN    # clone(), mount(), sethostname() などに必要
+    - NET_ADMIN    # ネットワーク名前空間操作に必要
