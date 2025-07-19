@@ -51,6 +51,6 @@ hoge
 ```
 
 ## 備考
-- **学習ガイド**: [docs/README.md](docs/README.md)
+- **学習ガイド(準備中)**: [docs/README.md](docs/README.md)
 - **個人メモ**: [docs/MEMO.md](docs/MEMO.md)
 - **ソースコード**: `src/nsexec.c`, `src/diyc.c`
